@@ -11,14 +11,13 @@
 }
 
 .container h3 {
-    margin-right: 205px;
-    color: red;
+  margin-right: 205px;
+    
 }
 
 .container .text {
-    max-width: 400px;
-    color: red;
-    text-align: justify;
+  max-width: 400px;
+  text-align: justify;
 }
 
 .card {
